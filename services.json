@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "name": "Emergency Ward & ICU",
+        "image": "https://images.theconversation.com/files/117015/original/image-20160331-28462-qliwnl.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip",
+        "description": "Patients are evaluated and cared for in the emergency room. Depending on how sick the patients are the emergency room doctor may send them to another area of the hospital called the ICU. The ICU is called the intensive care unit. Patients who are very sick and need specialized care are placed in the ICU. Patients are evaluated and cared for in the emergency room. Depending on how sick the patients are the emergency room doctor may send them to another area of the hospital called the ICU. The ICU is called the intensive care unit. Patients who are very sick and need specialized care are placed in the ICU.",
+        "type": "Ambulatory"
+    },
+    {
+        "id": 2,
+        "name": "Blood bank",
+        "image": "https://images.indianexpress.com/2020/12/blood-donation_1200_getty.jpg",
+        "description": "The blood donation process from the time you arrive until the time you leave takes about an hour. The donation itself is only about 8-10 minutes on average. Find out how often you can donate blood and answers to more frequently asked questions about the blood donation process with American Red Cross blood services. Donate. Sit back and relax in a comfy chair while you donate. You can read, chat with our team members or other donors. Inova Blood Donor Services collects blood and blood components that help save lives in our community every day. ",
+        "type": "Ambulatory"
+    },
+    {
+        "id": 3,
+        "name": "Surgecial and Orthopedic",
+        "image": "https://previews.123rf.com/images/anamejia18/anamejia181904/anamejia18190400154/122493495-group-of-orthopedic-surgeons-performing-surgery-on-a-patient-arm.jpg",
+        "description": "Orthopaedic surgery or orthopaedics, is the branch of surgery concerned with conditions involving the musculoskeletal system. Orthopaedic surgeons use both surgical and nonsurgical means to treat musculoskeletal trauma, spine diseases, sports injuries, degenerative diseases, infections, tumors, and congenital disorders. Many developments in orthopedic surgery have resulted from experiences during wartime. On the battlefields of the Middle Ages, the injured were treated with bandages soaked in horses' blood, which dried to form a stiff, if unsanitary, splint. Many developments in orthopedic surgery have resulted from experiences during wartime. On the battlefields of the Middle Ages, the injured were treated with bandages soaked in horses' blood, which dried to form a stiff, if unsanitary, splint. ",
+        "type": "Rehabiliation"
+    },
+    {
+        "id": 4,
+        "name": "Oral Diagnosis",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKNPfuY1mFBcHw7BQ3Wfbd9KbbtRlYDNTNow&usqp=CAU",
+        "description": "Oral diagnosis in dentistry is the practice of determining all problems inside and outside of the mouth by using scientific knowledge to determine the relationship between them, and thereby helping to make the right decisions regarding treatment based on the findings in hand. Oral diagnosis in dentistry is the practice of determining all problems inside and outside of the mouth by using scientific knowledge to determine the relationship between them, and thereby helping to make the right decisions regarding treatment based on the findings in hand. Oral diagnosis in dentistry is the practice of determining all problems inside and outside of the mouth by using scientific knowledge to determine the relationship between them, and thereby helping to make the right decisions regarding treatment based on the findings in hand.",
+        "type": "Dental"
+    },
+    {
+        "id": 5,
+        "name": "Temporary Filling",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIFWCIUj4spOnIHYCbHbh8QD8iUktiCsMablMwymbDW9GP1o-FvEX73tH_gNODsREddZ4&usqp=CAU",
+        "description": "A temporary filling is a filling that has been placed to seal or build up part of a tooth. It is generally made from softer materials and is not intended as a permanent solution. A temporary filling is a filling that has been placed to seal or build up part of a tooth. It is generally made from softer materials and is not intended as a permanent solution. A temporary filling is a filling that has been placed to seal or build up part of a tooth. It is generally made from softer materials and is not intended as a permanent solution. A temporary filling is a filling that has been placed to seal or build up part of a tooth. It is generally made from softer materials and is not intended as a permanent solution.",
+        "type": "Dental"
+    },
+    {
+        "id": 6,
+        "name": "Eye Examination",
+        "image": "http://www.dishaeye.org/blog/wp-content/uploads/2019/04/What-are-the-differences-Between-eye-screening-and-a-Comprehensive-Eye-Examination-1024x683.jpg",
+        "description": "An eye examination is a series of tests performed to assess vision and ability to focus on and discern objects. It also includes other tests and examinations pertaining to the eyes. Eye examinations are primarily performed by an optometrist, ophthalmologist, orthoptist, or an optician. An eye examination is a series of tests performed to assess vision and ability to focus on and discern objects. It also includes other tests and examinations pertaining to the eyes. Eye examinations are primarily performed by an optometrist, ophthalmologist, orthoptist, or an optician. An eye examination is a series of tests performed to assess vision and ability to focus on and discern objects. It also includes other tests and examinations pertaining to the eyes. Eye examinations are primarily performed by an optometrist, ophthalmologist, orthoptist, or an optician.",
+        "type": "Opthalmology"
+    },
+    {
+        "id": 7,
+        "name": "Sugeries",
+        "image": "https://www.conehealth.com/app/files/public/2c7ea307-23b2-49a8-b437-477bbfb53e21/Surgery-800x533.jpg",
+        "description": "Common Procedures & Surgeries · Appendectomy · Cataract Surgery / Refractive Lens Exchange · C-Section · CT Scan · Echocardiogram. Hurley pediatric surgeons perform inpatient and outpatient surgeries, as well as pre-surgical testing and patient consultations to determine. Surgery is a medical or dental specialty that uses operative manual and instrumental techniques on a person to investigate or treat a pathological Surgery is a medical or dental specialty that uses operative manual and instrumental techniques on a person to investigate or treat a pathological. Hurley pediatric surgeons perform inpatient and outpatient surgeries, as well as pre-surgical testing and patient consultations to determine",
+        "type": "Opthalmology"
+    },
+    {
+        "id": 8,
+        "name": "Cardiology",
+        "image": "https://www.genengnews.com/wp-content/uploads/2018/10/GENExclusive_Getty_758308075_KaterynaKon_SciencePhotoLibrary_GettyImages_Heart.jpg",
+        "description": "Cardiology is the study and treatment of disorders of the heart and the blood vessels. A person with heart disease or cardiovascular disease may be referred to a cardiologist. Cardiology is a branch of internal medicine. A cardiologist specializes in diagnosing and treating diseases of the cardiovascular system. Cardiology is the study and treatment of disorders of the heart and the blood vessels. A person with heart disease or cardiovascular disease may be referred to a cardiologist. Cardiology is a branch of internal medicine. A cardiologist specializes in diagnosing and treating diseases of the cardiovascular system. Cardiology is the study and treatment of disorders of the heart and the blood vessels. A person with heart disease or cardiovascular disease may be referred to a cardiologist. Cardiology is a branch of internal medicine. A cardiologist specializes in diagnosing and treating diseases of the cardiovascular system",
+        "type": "Pediatrics"
+    },
+    {
+        "id": 9,
+        "name": "Intensive Care",
+        "image": "https://d3uigcfkiiww0g.cloudfront.net/wordpress/blog/pics-en/uploads/1200px-Clinicians_in_Intensive_Care_Unit.jpg",
+        "description": "An intensive care unit (ICU), also known as an intensive therapy unit or intensive treatment unit (ITU) or critical care unit (CCU), is a special department of a hospital or health care facility that provides intensive care medicine. Intensive care units cater to patients with severe or life-threatening illnesses and injuries, which require constant care, close supervision from life support equipment and medication in order to ensure normal bodily functions. They are staffed by highly trained physicians, nurses and respiratory therapists who specialize in caring for critically ill patients. ICUs are also distinguished from general hospital wards by a higher staff-to-patient ratio and access to advanced medical resources and equipment that is not routinely available elsewhere. Common conditions that are treated within ICUs include acute respiratory distress syndrome, septic shock, and other life-threatening conditions.  ICUs are also distinguished from general hospital wards by a higher staff-to-patient ratio and access to advanced medical resources and equipment that is not routinely available elsewhere. Common conditions that are treated within ICUs include acute respiratory distress syndrome, septic shock, and other life-threatening conditions.",
+        "type": "Pediatrics"
+    },
+    {
+        "id": 10,
+        "name": "Ultrasound Examination",
+        "image": "https://www.ucsfbenioffchildrens.org/-/media/project/ucsf/ucsf-bch/images/medical-tests/hero/abdominal-ultrasound-708x556-2x.jpg",
+        "description": "An ultrasound scan, sometimes called a sonogram, is a procedure that uses high-frequency sound waves to create an image of part of the inside of the body. An ultrasound scan can be used to monitor an unborn baby, diagnose a condition, or guide a surgeon during certain procedures. An ultrasound scan, sometimes called a sonogram, is a procedure that uses high-frequency sound waves to create an image of part of the inside of the body. An ultrasound scan can be used to monitor an unborn baby, diagnose a condition, or guide a surgeon during certain procedures. An ultrasound scan, sometimes called a sonogram, is a procedure that uses high-frequency sound waves to create an image of part of the inside of the body. An ultrasound scan can be used to monitor an unborn baby, diagnose a condition, or guide a surgeon during certain procedures.",
+        "type": "Radiology"
+    },
+    {
+        "id": 11,
+        "name": "Dental X-ray",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFVTlAQHVxCzpjjeSx9uw9NyG34MouCPHFOPSqgVCPRuTebo5FoDoExnOO_hOV5dikwqs&usqp=CAU",
+        "description": "Dental X-rays (radiographs) are images of your teeth that your dentist uses to evaluate your oral health. These X-rays are used with low levels of radiation. Dental X-rays (radiographs) are images of your teeth that your dentist uses to evaluate your oral health. These X-rays are used with low levels of radiation. Dental radiographs are commonly called X-rays. Dentists use radiographs for many reasons: to find hidden dental structures, malignant or benign masses. Dental radiographs are commonly called X-rays. Dentists use radiographs for many reasons: to find hidden dental structures, malignant or benign masses. Panoramic dental x-ray uses a very small dose of ionizing radiation to capture the entire mouth in one image.",
+        "type": "Dental"
+    },
+    {
+        "id": 12,
+        "name": "ECG and CT Scan 2D Echo Dropler",
+        "image": "https://bizimages.withfloats.com/tile/58b718e07a065d0b043d0ab1.jpg",
+        "description": "2D Doppler imaging[edit]. Unlike 1D Doppler imaging, which can only provide one-dimensional velocity and has dependency on the beam to flow angle. 2D Doppler imaging[edit]. Unlike 1D Doppler imaging, which can only provide one-dimensional velocity and has dependency on the beam to flow angle. Doppler is also very useful in diagnosing the presence and severity of valve stenosis (pronounced stee-no-sis) or narrowing. Remember, unlike echocardiography. Also, Doppler can detect abnormal blood flow within the heart, which can indicate a ... Color Doppler is an enhanced form of Doppler echocardiography. Also, Doppler can detect abnormal blood flow within the heart, which can indicate a ... Color Doppler is an enhanced form of Doppler echocardiography. First Health diagnostics provides the best 2D Echo Colour Doppler test in hyderabad attapur pillar 180 at very low cost. Highly Qualified and experienced.",
+        "type": "Radiology"
+    }
+]
